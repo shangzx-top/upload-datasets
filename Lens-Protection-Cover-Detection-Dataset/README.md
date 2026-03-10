@@ -1,17 +1,10 @@
 ---
-tags:
-- Object Detection
-- Quality Assurance
-- Camera Module Packaging Inspection
-- Automatic Film Application Verification
+tags: Object Detection, Quality Assurance, Camera Module Packaging Inspection, Automatic Film Application Verification
 license: cc-by-nc-sa-4.0
-task_categories:
-- object-detection
-language:
-- en
+task_categories: object-detection
+language: en
 pretty_name: Lens Protection Cover Detection Dataset
-size_categories:
-- 1B<n<10B
+size_categories: 10M<n<100M
 ---
 
 # Lens Protection Cover Detection Dataset
