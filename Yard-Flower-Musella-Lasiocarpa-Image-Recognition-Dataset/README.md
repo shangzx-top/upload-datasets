@@ -1,19 +1,10 @@
 ---
-tags:
-- Image classification
-- object detection
-- pattern recognition
-- Horticultural plant identification
-- plant classification
-- agricultural production management
+tags: Image classification, object detection, pattern recognition, Horticultural plant identification, plant classification, agricultural production management
 license: cc-by-nc-sa-4.0
-task_categories:
-- image-classification
-language:
-- en
+task_categories: image-classification
+language: en
 pretty_name: Yard Flower Musella Lasiocarpa Image Recognition Dataset
-size_categories:
-- 1B<n<10B
+size_categories: 1B<n<10B
 ---
 
 # Yard Flower Musella Lasiocarpa Image Recognition Dataset
