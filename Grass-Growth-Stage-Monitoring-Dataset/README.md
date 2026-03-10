@@ -1,18 +1,10 @@
 ---
-tags:
-- object detection
-- image classification
-- agricultural monitoring
-- crop management
-- growth analysis
+tags: object detection, image classification, agricultural monitoring, crop management, growth analysis
 license: cc-by-nc-sa-4.0
-task_categories:
-- image-classification
-language:
-- en
+task_categories: image-classification
+language: en
 pretty_name: Grass Growth Stage Monitoring Dataset
-size_categories:
-- 1B<n<10B
+size_categories: 1B<n<10B
 ---
 
 # Grass Growth Stage Monitoring Dataset
